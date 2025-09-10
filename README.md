@@ -25,3 +25,5 @@ From there we can place an Engine.ini which overrides the games file letting us 
 It's simple
 
 made by [ytsodacan](https://github.com/ytsodacan) and [obelous](https://github.com/0belous)
+
+#working on adding actual servers possibly???
