@@ -16,7 +16,7 @@ Particularly useful when running old versions of Orion Drift that don't have ser
 - if no application run main.py in backend
 - its pretty simple after that
 - select the apk, obb and engine.ini mode and slam that run button
-The maintain button must be clicked every time the game is opened because it deletes the Engine.ini
+- The maintain button must be clicked every time the game is opened because it deletes the Engine.ini
 
 ## How does it work?
 Rebuilding the APK with debugging enabled gives permission to access the game files without root. <br>
