@@ -26,4 +26,4 @@ It's simple
 
 made by [ytsodacan](https://github.com/ytsodacan) and [obelous](https://github.com/0belous)
 
-#working on adding actual servers possibly???
+# working on adding actual servers possibly???
